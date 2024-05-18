@@ -1,0 +1,6 @@
+total 16
+drwxr-xr-x 3 ikermendii ikermendii 4096 May 18 16:30 ./
+drwxr-xr-x 3 ikermendii ikermendii 4096 May 18 16:25 ../
+drwxr-xr-x 7 ikermendii ikermendii 4096 May 18 16:27 .git/
+-rw-r--r-- 1 ikermendii ikermendii    0 May 18 16:30 f2.txt
+-rw-r--r-- 1 ikermendii ikermendii   12 May 18 16:28 fi.txt
